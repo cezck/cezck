@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egor</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3>
-![KNiu](https://github.com/user-attachments/assets/0c293c92-ed2b-42f9-b4e6-d3748cd8d094)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
